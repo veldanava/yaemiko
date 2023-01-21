@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    height: 100vh;
+    margin: 4px;
+    justify-content: center;
+}
+
+p {
+    font-size: 8px;
+    line-height: 8px;
+    background: url(https://i.pinimg.com/564x/b4/2c/c7/b42cc7450660d1cfb9493d4c66640360.jpg);
+    -webkit-background-clip: text;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
